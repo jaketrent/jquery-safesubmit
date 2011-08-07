@@ -1,0 +1,3 @@
+Disallows resubmission of ajax requests by disabling the submitting button and re-enabling upon response.
+
+Customizable: Disabled class, attribute, and value
